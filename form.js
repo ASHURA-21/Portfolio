@@ -20,6 +20,7 @@ function save(){
       date: eight,
       terms: nine
     }
+    // data.push(first)
 
     
     let data_string = JSON.stringify(data);
